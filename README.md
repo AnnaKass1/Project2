@@ -42,4 +42,4 @@ The code consists of several modules and steps:
 
 ## Results
 
-Pearson Heatmap Result: The amount of credit is very dependent on the annual income of the borrower
+**Pearson Heatmap Result:** The amount of credit is very dependent on the annual income of the borrower
