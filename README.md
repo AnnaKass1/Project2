@@ -41,3 +41,5 @@ The code consists of several modules and steps:
 11. Evaluated KNN model performance. The code generated predictions using the trained KNN classifier on the testing data. It evaluates the model's performance by calculating the accuracy score and generating a classification report.
 
 ## Results
+
+Pearson Heatmap Result: The amount of credit is very dependent on the annual income of the borrower
