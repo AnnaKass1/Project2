@@ -12,7 +12,7 @@ This project demonstrates credit risk analysis and clustering using machine lear
 2. Model Training: The code trains a logistic regression model using the original training data (X_train, y_train) and the oversampled      training data (X_oversampled, y_oversampled). The goal is to fit the logistic regression model to the training data and learn the        coefficients that minimize the difference between predicted probabilities and actual loan statuses
 
 ## Dataset 
-Retrived simulated dataset from Kaggle.
+*Retrived simulated dataset from Kaggle.*
 
 ## Summary
 
