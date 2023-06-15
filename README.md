@@ -1,5 +1,8 @@
 # Credit Risk Analysis
 
+![CRA](https://github.com/AnnaKass1/Project2/assets/125223297/b520f01e-fcb5-4e96-898a-cea3553826f5)
+
+---
 ## Purpose
 This project demonstrates credit risk analysis and clustering using machine learning techniques. It utilizes the credit risk dataset to train and evaluate models for predicting loan status and performs exploratory data analysis and clustering to identify patterns in the data. The code is designed to be executed in Google Colab, an online Jupyter notebook environment.
 
