@@ -34,7 +34,7 @@ The code consists of several modules and steps:
 
 8. Evaluated model performance on resampled data. The code generated predictions using the logistic regression model trained on the resampled data. It evaluates the model's performance by calculating the accuracy score, creating a confusion matrix, and generating a classification report for the resampled testing data.
 
-9. Exploratory data analysis and clustering. Created a correlation heatmap to visualize the pairwise correlations between numerical features. Additionally, a boxplot is generated to show the distribution of loan amounts grouped by loan purpose. The code also performs clustering using the K-means algorithm to identify patterns and similarities among the data points.
+9. Exploratory data analysis and clustering. Created a correlation heatmap to visualize the pairwise correlations between numerical features. Additionally, a boxplot is generated to show the distribution of loan amounts grouped by loan purpose.The categories of the loans analyzed in the models are Personal, Education, Medical, Venture, Home Improve, and Debt Consolidation. The code also performs clustering using the K-means algorithm to identify patterns and similarities among the data points.
 
 10. Trained a K-nearest neighbors (KNN) classifier. The code trained a K-nearest neighbors (KNN) classifier on the scaled data. The KNN model classifies new data points based on the class labels of their k nearest neighbors in the training data.
 
